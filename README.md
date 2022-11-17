@@ -1,0 +1,1 @@
+# critic-scale-app
