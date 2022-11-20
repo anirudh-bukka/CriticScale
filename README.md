@@ -1,1 +1,2 @@
 # critic-scale-app
+# CriticScale
